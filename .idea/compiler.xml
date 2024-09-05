@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Many-to-Many_Mapping" />
         <module name="One-to-One_Mapping" />
         <module name="One-to-Many_Mapping" />
       </profile>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hibernate_Mapping.iml" filepath="$PROJECT_DIR$/Hibernate_Mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many-to-Many_Mapping.iml" filepath="$PROJECT_DIR$/Many-to-Many_Mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/One-to-Many_Mapping.iml" filepath="$PROJECT_DIR$/One-to-Many_Mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/One-to-One_Mapping.iml" filepath="$PROJECT_DIR$/One-to-One_Mapping.iml" />
     </modules>
